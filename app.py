@@ -150,7 +150,7 @@ class DecisionEngine:
 # 5. UI & EXECUTION
 # ==========================================
 st.title("🤖 Quantamental Research Architect")
-st.markdown("A modular bot blending Technicals (The Brain), Fundamentals (The Senses), and LLM Live Web Sentiment.")
+st.markdown("A modular bot blending Technicals (The Brain), Fundamentals (The Senses), and LLM Live Web Sentiment.\n\n Important Disclosure \n\nNot Advice: This app provides data and tools for informational purposes. We do not provide personalized investment, tax, or legal advice. \n\nRisk of Loss: All investing involves risk. You may lose some or all of your capital. \n\n Independent Decisions: You are solely responsible for your own financial decisions. We recommend consulting a licensed professional before acting on any information found here.")
 
 with st.sidebar:
     st.header("Control Panel")
